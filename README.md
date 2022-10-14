@@ -6,4 +6,4 @@ Four things are to be added in this project:-
 
 The main motive of this project is to collect ideas of people view-points on any of the topic anonymously.
 
-Only reading access is provided to users who are not signed up to the app.They can post a article or can like someone as article. in order to do so they have to sign-in.
+Only reading access is provided to users who are not signed up to the app.They can post a article or can like someone else article only when they sign-in.
